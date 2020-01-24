@@ -1,0 +1,7 @@
+C:\Users\adrbarreira\source\repos\test\test\bin\Debug\test.exe.config
+C:\Users\adrbarreira\source\repos\test\test\bin\Debug\test.exe
+C:\Users\adrbarreira\source\repos\test\test\bin\Debug\test.pdb
+C:\Users\adrbarreira\source\repos\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\adrbarreira\source\repos\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\adrbarreira\source\repos\test\test\obj\Debug\test.exe
+C:\Users\adrbarreira\source\repos\test\test\obj\Debug\test.pdb
